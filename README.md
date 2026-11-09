@@ -4,7 +4,7 @@
 
 The project explores a practical question: **does earning more abroad translate into a better financial position after taxes, rent, and everyday expenses?** It compares 11 cities across nine European countries, using Lisbon as the reference.
 
-![Final project visualization](figures/final_visualization.png)
+![Final project visualization](T03_visualization.png)
 
 ## What the visualization shows
 
